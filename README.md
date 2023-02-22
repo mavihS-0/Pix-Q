@@ -1,7 +1,6 @@
-![Logo](https://cdn.discordapp.com/attachments/1010602676909776949/1077996703266897990/PIX-Q.png)
+![Logo](https://cdn.discordapp.com/attachments/1010602676909776949/1077996703266897990/PIX-Q.png?width=1000)
 # Pix-Q
 HD Wallpapers and Backgrounds to spice up your Screen
-<img src="https://cdn.discordapp.com/attachments/1010602676909776949/1077995214888775841/logo2.png"/>
 ## Authors
 - [@mavihS-0](https://github.com/mavihS-0)
 ## Description
