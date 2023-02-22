@@ -1,2 +1,3 @@
 # Pix-Q
-Wallpaper App
+## HD wallpapers and background to spice up your Screen
+
