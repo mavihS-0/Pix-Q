@@ -1,9 +1,9 @@
-![Logo](https://cdn.discordapp.com/attachments/1010602676909776949/1077996703266897990/PIX-Q.png?width=1000)
+![Logo](https://cdn.discordapp.com/attachments/1010602676909776949/1078003980032024606/Pix-Q.png)
 # Pix-Q
 HD Wallpapers and Backgrounds to spice up your Screen
 ## Authors
 - [@mavihS-0](https://github.com/mavihS-0)
-## Description
+## About it
 Pix-Q: A wallpaper app built using flutter, firebase and wallhaven api. This app gets wallpapers from wallhaven.com based on search queries and stores liked wallpapers in a database on cloud firestore.
 - **Client:** Flutter
 - **APIs:** Firebase, Wallhaven 
