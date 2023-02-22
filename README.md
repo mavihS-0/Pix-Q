@@ -3,7 +3,7 @@
 HD Wallpapers and Backgrounds to spice up your Screen
 <h2>Authors</h2>
 <ul>
-[@mavihS-0](https://github.com/mavihS-0)
+  <a href="https://github.com/mavihS-0">mavihS-0</a>
 </ul>
 <h2>About it</h2>
 Pix-Q: A wallpaper app built using flutter, firebase and wallhaven api. This app gets wallpapers from wallhaven.com based on search queries and stores liked wallpapers in a database on cloud firestore.
