@@ -10,7 +10,7 @@ Pix-Q: A wallpaper app built using flutter, firebase and wallhaven api. This app
 ## Download for Android (apk)
 - [download here]()
 ## Screenshots
-![ss](https://cdn.discordapp.com/attachments/1010602676909776949/1078000973907230841/Screenshot_2023-02-22-22-39-46-12_82c209e17e90e37550b101c702eef871.jpg){width=20}
+![ss](https://cdn.discordapp.com/attachments/1010602676909776949/1078000973907230841/Screenshot_2023-02-22-22-39-46-12_82c209e17e90e37550b101c702eef871.jpg){:height="100px" width="100px"}
 
 ![ss](https://cdn.discordapp.com/attachments/1010602676909776949/1078000973907230841/Screenshot_2023-02-22-22-39-46-12_82c209e17e90e37550b101c702eef871.jpg)![liked](https://cdn.discordapp.com/attachments/1010602676909776949/1078000974297305218/Screenshot_2023-02-22-22-39-50-68_82c209e17e90e37550b101c702eef871.jpg)![ss](https://cdn.discordapp.com/attachments/1010602676909776949/1078002148064907294/Screenshot_2023-02-22-22-45-25-85_82c209e17e90e37550b101c702eef871.jpg)
 ### Other pages
