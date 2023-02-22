@@ -3,7 +3,7 @@
 HD Wallpapers and Backgrounds to spice up your Screen
 <h2>Authors</h2>
 <ul>
-  <a href="https://github.com/mavihS-0">mavihS-0</a>
+  <li><a href="https://github.com/mavihS-0">mavihS-0</a></li>
 </ul>
 <h2>About it</h2>
 Pix-Q: A wallpaper app built using flutter, firebase and wallhaven api. This app gets wallpapers from wallhaven.com based on search queries and stores liked wallpapers in a database on cloud firestore.
@@ -13,7 +13,7 @@ Pix-Q: A wallpaper app built using flutter, firebase and wallhaven api. This app
 </ul>
 <h2>Download for Android (apk)</h2>
 <ul>
-<li>[download here]()</li>
+  <li><a href="">Pix-Q.apk</a></li>
 </ul>
 <h2>Screenshots</h2>
 ![ss](https://cdn.discordapp.com/attachments/1010602676909776949/1078000973907230841/Screenshot_2023-02-22-22-39-46-12_82c209e17e90e37550b101c702eef871.jpg)![liked](https://cdn.discordapp.com/attachments/1010602676909776949/1078000974297305218/Screenshot_2023-02-22-22-39-50-68_82c209e17e90e37550b101c702eef871.jpg)![ss](https://cdn.discordapp.com/attachments/1010602676909776949/1078002148064907294/Screenshot_2023-02-22-22-45-25-85_82c209e17e90e37550b101c702eef871.jpg)
