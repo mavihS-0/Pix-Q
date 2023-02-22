@@ -1,3 +1,3 @@
 # Pix-Q
-HD wallpapers and background to spice up your Screen
+HD Wallpapers and Backgrounds to spice up your Screen
 
